@@ -1,0 +1,52 @@
+.circular {
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.profile {
+	background: url(../images/Haneef.jpg) no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
+
+.sweet-background {
+  background: transparent;
+}
+
+.sweet-background h1, .sweetbackground p {
+	  line-height: 1.2 !important;
+}
+
+.highlight {
+	background: rgba(0,0,0,0.8);
+	padding-left: 3px;
+	padding-right: 3px;
+	color: #F5F5F5;
+}
+
+body.haneef a {
+	color: rgb(228, 108, 108);
+}
+
+body.haneef {
+	background: url(../images/work.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.haneef footer {
+	color: #DBDBDB;
+}
+
+.info .jumbotron {
+	border-radius: 2px;
+}
