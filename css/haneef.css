@@ -26,13 +26,18 @@
 
 .highlight {
 	background: rgba(0,0,0,0.8);
-	padding-left: 3px;
-	padding-right: 3px;
+	padding: 10px;
+	border-radius: 4px;
 	color: #F5F5F5;
 }
 
+.welcome {
+	margin-top: 30px;
+	line-height: 2;
+}
+
 body.haneef a {
-	color: rgb(228, 108, 108);
+	color: #71b8b4;
 }
 
 body.haneef {
